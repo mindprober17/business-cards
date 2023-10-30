@@ -1,0 +1,364 @@
+body, html {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+}
+.bg {
+    background-image: url('assets/Mediaprobe-Background.png');
+    background-color: #091F30;
+    height: 100%;
+    width: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+.btn-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.logo {
+    margin-top: 2%;
+    max-width: 350px;
+}
+.profile-pic {
+    max-width: 250px;
+}
+.btn-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.btn {
+    margin-bottom: 2%;
+    width: 300px;
+    padding: 15px 25px;
+    display: block;
+    background-color: #43BBC7;
+    color: white;
+}
+.btn:hover{
+    color: #fff;
+    background-color: #12aaaf;
+}
+
+.btn:hover:after{
+    background-color: #12aaaf;
+    color: #fff;
+}
+
+@media (min-width: 1281px) { 
+    body, html {
+        height: 100%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+    }    
+    .bg {
+        background-image: url('assets/Mediaprobe-Background.png');
+        background-color: #091F30;
+        height: 100%;
+        width: 100%;
+        background-position: bottom;
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+    }
+    .btn-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo {
+        margin-top: 2%;
+        max-width: 350px;
+    }
+    .profile-pic {
+        max-width: 250px;
+    }
+    .btn-container {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .btn {
+        margin-bottom: 2%;
+        width: 300px;
+        padding: 15px 25px;
+        display: block;
+        background-color: #43BBC7;
+        color: white;
+    }
+    .btn:hover{
+        color: #fff;
+        background-color: #12aaaf;
+    }
+    .btn:hover:after{
+        background-color: #12aaaf;
+        color: #fff;
+    }
+  }
+
+@media (min-width: 1281px) and (max-width: 1440px) { 
+    body, html {
+        height: 100%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+    }    
+    .bg {
+        background-image: url('assets/Mediaprobe-Background.png');
+        background-color: #091F30;
+        height: 100%;
+        width: 100%;
+        background-position: bottom;
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+    }
+    .btn-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo {
+        margin-top: 2%;
+        max-width: 350px;
+    }
+    .profile-pic {
+        max-width: 250px;
+    }
+    .btn-container {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .btn {
+        margin-bottom: 2%;
+        width: 300px;
+        padding: 15px 25px;
+        display: block;
+        background-color: #43BBC7;
+        color: white;
+    }
+    .btn:hover{
+        color: #fff;
+        background-color: #12aaaf;
+    }
+    .btn:hover:after{
+        background-color: #12aaaf;
+        color: #fff;
+    }
+  }
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    body, html {
+        height: 100%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+    }    
+    .bg {
+        background-image: url('assets/Mediaprobe-Background.png');
+        background-color: #091F30;
+        height: 100%;
+        width: 100%;
+        background-position: bottom;
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+    }
+    .btn-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo {
+        margin-top: 2%;
+        max-width: 350px;
+    }
+    .profile-pic {
+        max-width: 250px;
+    }
+    .btn-container {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .btn {
+        margin-bottom: 2%;
+        width: 300px;
+        padding: 15px 25px;
+        display: block;
+        background-color: #43BBC7;
+        color: white;
+    }
+    .btn:hover{
+        color: #fff;
+        background-color: #12aaaf;
+    }
+    .btn:hover:after{
+        background-color: #12aaaf;
+        color: #fff;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    body, html {
+        height: 100%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+    }    
+    .bg {
+        background-image: url('assets/Mediaprobe-Background.png');
+        background-color: #091F30;
+        height: 100%;
+        width: 100%;
+        background-position: bottom;
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+    }
+    .btn-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo {
+        margin-top: 2%;
+        max-width: 350px;
+    }
+    .profile-pic {
+        max-width: 250px;
+    }
+    .btn-container {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .btn {
+        margin-bottom: 2%;
+        width: 300px;
+        padding: 15px 25px;
+        display: block;
+        background-color: #43BBC7;
+        color: white;
+    }
+    .btn:hover{
+        color: #fff;
+        background-color: #12aaaf;
+    }
+    .btn:hover:after{
+        background-color: #12aaaf;
+        color: #fff;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+    body, html {
+        height: 100%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+    }    
+    .bg {
+        background-image: url('assets/Mediaprobe-Background.png');
+        background-color: #091F30;
+        height: 100%;
+        width: 100%;
+        background-position: bottom;
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+    }
+    .btn-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo {
+        margin-top: 2%;
+        max-width: 350px;
+    }
+    .profile-pic {
+        max-width: 250px;
+    }
+    .btn-container {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .btn {
+        margin-bottom: 2%;
+        width: 300px;
+        padding: 15px 25px;
+        display: block;
+        background-color: #43BBC7;
+        color: white;
+    }
+    .btn:hover{
+        color: #fff;
+        background-color: #12aaaf;
+    }
+    .btn:hover:after{
+        background-color: #12aaaf;
+        color: #fff;
+    }
+}
+
+
+@media only screen and (max-width: 400px) and (max-height: 850px) {
+    body, html {
+        height: 100%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+    }    
+    .bg {
+        background-image: url('assets/Mediaprobe-Background.png');
+        background-color: #091F30;
+        height: 100%;
+        width: 100%;
+        background-position: bottom;
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+    }
+    .btn-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo {
+        margin-top: 2%;
+        max-width: 250px;
+    }
+    .profile-pic {
+        max-width: 200px;
+    }
+    .btn-container {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .btn {
+        margin-bottom: 2%;
+        width: 300px;
+        padding: 15px 25px;
+        display: block;
+        background-color: #43BBC7;
+        color: white;
+    }
+    .btn:hover{
+        color: #fff;
+        background-color: #12aaaf;
+    }
+    .btn:hover:after{
+        background-color: #12aaaf;
+        color: #fff;
+    }
+} 
