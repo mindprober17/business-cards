@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Sérgio Martins
+N;CHARSET=UTF-8:Martins;Sérgio;;;
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sergio.martins@mediaprobe.com
+TEL;TYPE=WORK,VOICE:+351 963 816 125
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Rua Engenheiro Frederico Ulrich;Maia;;4470-605;Portugal
+TITLE;CHARSET=UTF-8:Software Developer at Mediaprobe
+ORG;CHARSET=UTF-8:Mediaprobe
+URL;type=WORK;CHARSET=UTF-8:https://www.mediaprobe.com/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/sergio-martins-899956252/
+REV:2023-10-30T18:10:15.888Z
+END:VCARD

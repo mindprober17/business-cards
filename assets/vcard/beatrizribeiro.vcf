@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Beatriz Ribeiro
+N;CHARSET=UTF-8:Ribeiro;Beatriz;;;
+GENDER:F
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:bea@mediaprobe.com
+TEL;TYPE=WORK,VOICE:+351 926 262 592
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Rua Engenheiro Frederico Ulrich;Maia;;4470-605;Portugal
+TITLE;CHARSET=UTF-8:CTO
+ORG;CHARSET=UTF-8:Mediaprobe
+URL;type=WORK;CHARSET=UTF-8:https://www.mediaprobe.com/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/beatriz-o-ribeiro/
+REV:2023-10-30T17:48:56.110Z
+END:VCARD
