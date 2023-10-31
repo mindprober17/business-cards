@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Pedro Almeida
-N;CHARSET=UTF-8:Almeida;Pedro;;;
+FN;CHARSET=UTF-8:Ruben Dias
+N;CHARSET=UTF-8:Dias;Ruben;;;
 GENDER:M
-EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:pedro@mediaprobe.com
-TEL;TYPE=WORK,VOICE:+351 916 448 947
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ruben.dias@mediaprobe.com
+TEL;TYPE=WORK,VOICE:+351 963 655 151
 ADR;CHARSET=UTF-8;TYPE=WORK:;;Rua Engenheiro Frederico Ulrich;Maia;;4470-605;Portugal
 TITLE;CHARSET=UTF-8:Embedded Systems Engineer
 ORG;CHARSET=UTF-8:Mediaprobe
 URL;type=WORK;CHARSET=UTF-8:https://www.mediaprobe.com/
-X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/pedro-almeida-mprober/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/ruben-dias-7495a65b/
 REV:2023-10-30T18:21:39.654Z
 END:VCARD
