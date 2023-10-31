@@ -1,11 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Luis Manuel Maia
-N;CHARSET=UTF-8:Maia;Luis;Manuel;Maia;Sr
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:luis@teste.com
-ROLE;CHARSET=UTF-8:CEO
-ORG;CHARSET=UTF-8:MediaProbe
-URL;type=WORK;CHARSET=UTF-8:mediaprobe.com
+FN;CHARSET=UTF-8:Nuno Dias
+N;CHARSET=UTF-8:Dias;Nuno;;;
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nuno@mediaprobe.com
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Rua Engenheiro Frederico Ulrich;Maia;;4470-605;Portugal
+TITLE;CHARSET=UTF-8:CTO
+ORG;CHARSET=UTF-8:Mediaprobe
+URL;type=WORK;CHARSET=UTF-8:https://www.mediaprobe.com/
 X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/nuno-dias-5b58051/
-REV:2023-10-30T12:03:35.276Z
+REV:2023-10-31T10:35:18.819Z
 END:VCARD

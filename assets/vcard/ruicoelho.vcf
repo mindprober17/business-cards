@@ -1,14 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Ruben Dias
-N;CHARSET=UTF-8:Dias;Ruben;;;
+FN;CHARSET=UTF-8:Rui Coelho
+N;CHARSET=UTF-8:Coelho;Rui;;;
 GENDER:M
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:rui@mediaprobe.com
-TEL;TYPE=WORK,VOICE:+351 938 050 851
 ADR;CHARSET=UTF-8;TYPE=WORK:;;Rua Engenheiro Frederico Ulrich;Maia;;4470-605;Portugal
-TITLE;CHARSET=UTF-8:Embedded Systems Engineer
+TITLE;CHARSET=UTF-8:Head of Product Development
 ORG;CHARSET=UTF-8:Mediaprobe
 URL;type=WORK;CHARSET=UTF-8:https://www.mediaprobe.com/
 X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/rui-c-coelho-po/
-REV:2023-10-30T18:28:52.443Z
+REV:2023-10-31T10:36:52.620Z
 END:VCARD
