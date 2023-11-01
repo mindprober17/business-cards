@@ -1,1 +1,1 @@
-# business-cards
+# business-cards for the company
